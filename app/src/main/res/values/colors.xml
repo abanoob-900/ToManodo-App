@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="action_bar_color">#FF9800</color>
+    <color name="action_bar_text_color">#fafafa</color>
+    <color name="drawer_background">#fafafa</color>
+    <color name="drawer_selected">#FF5722</color>
+
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#CDDC39</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="priorityHigh">#CDDC39</color>
+    <color name="priorityMedium">#9C27B0</color>
+    <color name="priorityLow">#FF9800</color>
+
+</resources>
